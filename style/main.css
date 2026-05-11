@@ -276,7 +276,7 @@ body {
   .six .hat {
     /* top: -20px; */
     left: 42%;     /* Mengatur Kiri/Kanan */
-    top: 10px;    /* Mengatur Atas/Bawah */
+    top: -80px;    /* Mengatur Atas/Bawah */
     width: 100px;
   }
 
